@@ -1,0 +1,190 @@
+Location,City,Region,Continent
+Besa,Tirana,Albania,Europe
+Fergese,Tirana,Albania,Europe
+Tango,Buenos Aires,Argentina,South America
+Yerba Mate,Buenos Aires,Argentina,South America
+Lofty,Adelaide,Australia,Oceania
+Oval,Adelaide,Australia,Oceania
+Bad Koala,Brisbane,Australia,Oceania
+Good Koala,Brisbane,Australia,Oceania
+Port Phillip,Melbourne,Australia,Oceania
+Yarra,Melbourne,Australia,Oceania
+Herdsman,Perth,Australia,Oceania
+Kings Park,Perth,Australia,Oceania
+Opera House,Sydney,Australia,Oceania
+Squidney,Sydney,Australia,Oceania
+Boltzmann,Vienna,Austria,Europe
+Hofburg,Vienna,Austria,Europe
+Funfrites,Brussels,Belgium,Europe
+Guildhouse,Brussels,Belgium,Europe
+Pisanica,Novi Travnik,Bosnia,Europe
+Burek,Sarajevo,Bosnia,Europe
+Mercadao,Sao Paulo,Brazil,South America
+Pinacoteca,Sao Paulo,Brazil,South America
+Nevski,Sofia,Bulgaria,Europe
+Vitoshka,Sofia,Bulgaria,Europe
+Crosby,Halifax,Canada East,North America
+Bagel Poutine,Montreal,Canada East,North America
+Expo 67,Montreal,Canada East,North America
+Comfort Zone,Toronto,Canada East,North America
+The 6,Toronto,Canada East,North America
+Chinook,Calgary,Canada West,North America
+Granville,Vancouver,Canada West,North America
+Stanley,Vancouver,Canada West,North America
+Vansterdam,Vancouver,Canada West,North America
+Cueca,Santiago,Chile,South America
+Rololandia,Bogota,Colombia,South America
+Tkalciceva,Zagreb,Croatia,Europe
+Amathusia,Limassol,Cyprus,Europe
+Blue Lagoon,Nicosia,Cyprus,Europe
+Staromak,Prague,Czech Republic,Europe
+Vltava,Prague,Czech Republic,Europe
+Hyggenhagen,Copenhagen,Denmark,Europe
+LEGO,Copenhagen,Denmark,Europe
+Cuy,Quito,Ecuador,South America
+HODL,San Salvador,El Salvador,North America
+Lennujaam,Tallinn,Estonia,Europe
+Station,Troll,Fake Antarctica,Unknown
+Sauna,Helsinki,Finland,Europe
+Tram,Helsinki,Finland,Europe
+La Marseillaise,Marseille,France,Europe
+Jardin,Paris,France,Europe
+Seine,Paris,France,Europe
+Ghvino,Tbilisi,Georgia,Europe
+Berghain,Berlin,Germany,Europe
+Castle,Frankfurt,Germany,Europe
+Wurstchen,Frankfurt,Germany,Europe
+Odeon,Athens,Greece,Europe
+Pepian,Guatemala City,Guatemala,North America
+Phooey,Hong Kong,Hong Kong,Asia
+Victoria,Hong Kong,Hong Kong,Asia
+Danube,Budapest,Hungary,Europe
+Goulash,Budapest,Hungary,Europe
+Fuzzy Pony,Reykjavik,Iceland,Europe
+Reyka,Reykjavik,Iceland,Europe
+Mayanagri,Fake Mumbai,India,Asia
+Vada Pav,Mumbai,India,Asia
+Chole Bhature,New Delhi,India,Asia
+Ancol,Jakarta,Indonesia,Asia
+Old Town,Jakarta,Indonesia,Asia
+Nasi Goreng,Surabaya,Indonesia,Asia
+Dullahan,Dublin,Ireland,Europe
+Grafton,Dublin,Ireland,Europe
+Yam Park,Ashdod,Israel,Asia
+Duomo,Milan,Italy,Europe
+Galleria,Milan,Italy,Europe
+Sicilicious,Palermo,Italy,Europe
+Shinkansen,Tokyo,Japan,Asia
+Wabi-sabi,Tokyo,Japan,Asia
+Sigiria,Nairobi,Kenya,Africa
+Daugava,Riga,Latvia,Europe
+Saeima,Riga,Latvia,Europe
+Neris,Vilnius,Lithuania,Europe
+Chemin,Luxembourg,Luxembourg,Europe
+Perdana,Kuala Lumpur,Malaysia,Asia
+Aqueduct,Queretaro,Mexico,North America
+Dendrarium,Chisinau,Moldova,Europe
+Bicycle,Amsterdam,Netherlands,Europe
+Stroopwafel,Amsterdam,Netherlands,Europe
+Tulip,Amsterdam,Netherlands,Europe
+Hauraki,Auckland,New Zealand,Oceania
+Parnell,Auckland,New Zealand,Oceania
+Lekki,Lagos,Nigeria,Africa
+Vardar,Skopje,North Macedonia,Europe
+Fjord,Oslo,Norway,Europe
+Rakfisk,Oslo,Norway,Europe
+Papers,Panama City,Panama,North America
+Chipa,Asuncion,Paraguay,South America
+Amaru,Lima,Peru,South America
+Hotdog,Manila,Philippines,Asia
+Motlawa,Gdansk,Poland,Europe
+Curie,Warsaw,Poland,Europe
+Vistula,Warsaw,Poland,Europe
+Bairro,Lisbon,Portugal,Europe
+No Vampires,Bucharest,Romania,Europe
+Noctropolis,Bucharest,Romania,Europe
+Goodbye Lenin,Moscow,Russia,Europe
+Hermitage,Saint Petersburg,Russia,Europe
+Shnur,Saint Petersburg,Russia,Europe
+White Nights,Saint Petersburg,Russia,Europe
+Rakia,Belgrade,Serbia,Europe
+Garden,Singapore,Singapore,Asia
+Marina Bay,Singapore,Singapore,Asia
+SMRT,Singapore,Singapore,Asia
+Devin Castle,Bratislava,Slovakia,Europe
+Melania,Ljubljana,Slovenia,Europe
+District,Johannesburg,South Africa,Africa
+Lindfield,Johannesburg,South Africa,Africa
+Springbok,Johannesburg,South Africa,Africa
+Hangang,Seoul,South Korea,Asia
+Namsan,Seoul,South Korea,Asia
+Batllo,Barcelona,Spain,Europe
+Plaza Mayor,Madrid,Spain,Europe
+Prado,Madrid,Spain,Europe
+Djurgarden,Stockholm,Sweden,Europe
+Ikea,Stockholm,Sweden,Europe
+Syndrome,Stockholm,Sweden,Europe
+Alphorn,Zurich,Switzerland,Europe
+Altstadt,Zurich,Switzerland,Europe
+Lindenhof,Zurich,Switzerland,Europe
+Tamsui,Taipei,Taiwan,Asia
+Lumphini,Bangkok,Thailand,Asia
+Sanook,Bangkok,Thailand,Asia
+Wat Pho,Bangkok,Thailand,Asia
+Lygos,Istanbul,Turkey,Europe
+Ghost,Kyiv,Ukraine,Europe
+Khalifa,Dubai,United Arab Emirates,Asia
+Keeper Willie,Edinburgh,United Kingdom,Europe
+Biscuits,London,United Kingdom,Europe
+Crumpets,London,United Kingdom,Europe
+Custard,London,United Kingdom,Europe
+City,Manchester,United Kingdom,Europe
+United,Manchester,United Kingdom,Europe
+Mountain,Atlanta,US Central,North America
+Peachtree,Atlanta,US Central,North America
+Piedmont,Atlanta,US Central,North America
+BBQ,Dallas,US Central,North America
+Ranch,Dallas,US Central,North America
+Trinity,Dallas,US Central,North America
+Barley,Denver,US Central,North America
+Nuggets,Denver,US Central,North America
+Space City,Houston,US Central,North America
+Barbecue,Kansas City,US Central,North America
+Glinda,Kansas City,US Central,North America
+Harvard,Boston,US East,North America
+MIT,Boston,US East,North America
+Bill,Buffalo,US East,North America
+Earnhardt,Charlotte,US East,North America
+Cub,Chicago,US East,North America
+Wrigley,Chicago,US East,North America
+Brown,Cleveland,US East,North America
+Coney Dog,Detroit,US East,North America
+Florida Man,Miami,US East,North America
+Snow,Miami,US East,North America
+Vice,Miami,US East,North America
+Situation,New Jersey,US East,North America
+Empire,New York,US East,North America
+Grand Central,New York,US East,North America
+Insomnia,New York,US East,North America
+Tofu Driver,Orlando,US East,North America
+Fresh Prince,Philadelphia,US East,North America
+Sunny,Philadelphia,US East,North America
+Hawkins,South Bend,US East,North America
+Cuban Sandwich,Tampa,US East,North America
+Trade War,Washington DC,US East,North America
+Oregon Trail,Bend,US West,North America
+Coconut Wireless,Honolulu,US West,North America
+Casino,Las Vegas,US West,North America
+Cube,Los Angeles,US West,North America
+Dogg,Los Angeles,US West,North America
+Lamar,Los Angeles,US West,North America
+Floatie,Phoenix,US West,North America
+Temple Sqr,Salt Lake City,US West,North America
+Sanitation,San Francisco,US West,North America
+Santana,San Jose,US West,North America
+Inside,Santa Clara,US West,North America
+Cobain,Seattle,US West,North America
+Cornell,Seattle,US West,North America
+Hendrix,Seattle,US West,North America
+Red River,Hanoi,Vietnam,Asia
+Train Street,Hanoi,Vietnam,Asia
