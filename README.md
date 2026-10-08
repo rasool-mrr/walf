@@ -5,10 +5,6 @@
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CubicDreams)
 [![Donate TRON](https://img.shields.io/badge/Donate-TRC20-red?style=for-the-badge&logo=tron&logoColor=white)](#-community--support)
 
-> 📢 **Official Telegram Channel:** [t.me/CubicDreams](https://t.me/CubicDreams)
->
-> 💸 **Support the Project (USDT-TRC20 / TRX):** `TVCnBQwHxvthw7zvcCaEeDp7PR8vfEYNZY`
-
 **WALF** is an advanced, fully automated VPN benchmarking engine and exhaustive node discovery utility featuring a modern graphical user interface built with CustomTkinter. Operating as a high-powered automation wrapper for the native `windscribe-cli`, WALF completely eliminates the tedious process of manual server shifting by **systematically searching, scanning, and stress-testing every single server, city, and geographic location across Windscribe's global network.**
 
 Instead of guessing which node works, WALF handles the heavy lifting through unattended network sweeping. It sequentially or randomly cycles through entire continents, countries, and individual server nodes back-to-back—testing them against various protocols and ports to pinpoint the exact paths that provide the highest performance.
