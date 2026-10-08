@@ -3,9 +3,6 @@
 [![کانال تلگرام](https://img.shields.io/badge/Telegram-Channel-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CubicDreams)
 [![حمایت از پروژه](https://img.shields.io/badge/Donate-TRC20-red?style=for-the-badge&logo=tron&logoColor=white)](#-جامعه-کاربری-و-حمایت)
 
-> 📢 **کانال رسمی تلگرام:** [t.me/CubicDreams](https://t.me/CubicDreams)
->
-> 💸 **حمایت از پروژه (USDT-TRC20 / TRX):** `TVCnBQwHxvthw7zvcCaEeDp7PR8vfEYNZY`
 
 برنامه **WALF** یک ابزار پیشرفته، کاملاً خودکار و هوشمند برای بنچمارک شبکه‌ و کشف جامع نودهای VPN است که از یک رابط کاربری مدرن گرافیکی (GUI) ساخته شده با CustomTkinter بهره می‌برد. این برنامه به عنوان یک موتور اتوماسیون قدرتمند برای نسخه خط فرمان بومی `windscribe-cli` عمل می‌کند و با **جستجو، اسکن و تست سیستماتیک تک‌تک سرورها، شهرها و موقعیت‌های جغرافیایی در کل شبکه جهانی ویندسکرایب**، فرآیند خسته‌کننده تعویض دستی سرورها را کاملاً حذف می‌کند.
 
